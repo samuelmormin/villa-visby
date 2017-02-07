@@ -14,14 +14,13 @@ header('Location: http://m.villa-visby.com');
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="Style/app.css">
-
 </head>
 
 <body>
     <div id="ajaxBox"></div>
     <div id="content-1">
+       
         <header>
-
             <!-- topBar -->
             <nav class="navbar">
                 <a href="#" class="logo-nav"><img class="logo__nav" src="img/crown.png" alt=""></a>
@@ -32,14 +31,14 @@ header('Location: http://m.villa-visby.com');
                 </button>
             </nav>
             <!-- topBar -->
-
         </header>
+        
         <!-- menuHamburger -->
         <div class="menu">
             <nav>
                 <ul class="menu__nav">
                     <li><a href="#villa">Accueil</a></li>
-                    <li><a href="#expert">Notre design</a></li>
+                    <li><a href="#expert">Notre expertise</a></li>
                     <li><a href="#product">Nos produits</a></li>
                     <li><a href="#delivery">Service de livraison</a></li>
                     <li><a href="#gal1">Galerie Photos</a></li>
@@ -104,7 +103,7 @@ header('Location: http://m.villa-visby.com');
                                 <p class="expert">
                                     <span class="title_expert">
                                           PERSONNALISATION<br>
-                                      </span> Conseil en design intèrieur pour accorder au mieux nos meubles et votre habitat.
+                                      </span> Conseil en design intérieur pour accorder au mieux nos meubles et votre habitat.
                                 </p>
                             </div>
                             <div class="col-md-4 last_">
@@ -114,7 +113,7 @@ header('Location: http://m.villa-visby.com');
                                 <p class="expert">
                                     <span class="title_expert">
                                           FIABILITÉ<br>
-                                      </span> Depuis 15 ans, Villa Visby fait tout pour satisfaire un maximum sa clientèle.
+                                      </span> Depuis 15 ans, Villa Visby fait tout pour satisfaire au maximum sa clientèle.
                                 </p>
                             </div>
                         </div>
@@ -133,7 +132,7 @@ header('Location: http://m.villa-visby.com');
                                 Canapés
                             </p>
                             <p class="description_product">
-                                DES CANAPÉS DE HAUTES QUALITÉS À LA FOIS DESIGN ET TRÈS CONFORTABLE.
+                                DES CANAPÉS DE HAUTE QUALITÉ À LA FOIS DESIGN ET TRÈS CONFORTABLES.
                             </p>
                             <a id="canapes_btn_1" href="#" class="btn__click hvr-ripple-out">
                                   en savoir plus   <br><i class="fa fa-plus" aria-hidden="true"></i><br>sur nos canapés  et sofas
@@ -155,7 +154,7 @@ header('Location: http://m.villa-visby.com');
                                 Tables
                             </p>
                             <p class="description_product">
-                                DES TABLES ADAPTÉS À VOS GOÛTS ET A VOTRE HABITAT PEU IMPORTE LA SAISON.
+                                DES TABLES ADAPTÉES À VOS GOÛTS ET À VOTRE HABITAT PEU IMPORTE LA SAISON.
                             </p>
                             <a id="tables_btn_1 tables__1" href="#" class="btn__click hvr-ripple-out">
                                   en savoir plus   <br><i class="fa fa-plus" aria-hidden="true"></i><br>sur nos tables
@@ -166,7 +165,7 @@ header('Location: http://m.villa-visby.com');
                                 Meubles de Jardin
                             </p>
                             <p class="description_product">
-                                UNE SÉLÉCTION DE PRODUITS D'ÉXTÉRIEURS TOTALEMENT MODERNE ET SOLIDES.
+                                UNE SÉLECTION DE PRODUITS D'ÉXTÉRIEUR TOTALEMENT MODERNES ET SOLIDES.
                             </p>
                             <a id="mob_ext_btn_1" href="#" class="btn__click hvr-ripple-out">
                                   en savoir plus   <br><i class="fa fa-plus" aria-hidden="true"></i><br>sur nos meubles de jardin
@@ -177,7 +176,7 @@ header('Location: http://m.villa-visby.com');
                                 Buffets
                             </p>
                             <p class="description_product">
-                                DU RANGEMENT DE GRANDE TAILLE ET UNE PRÉSENCE QUI MET EN VALEURS VOS SALLES.
+                                DU RANGEMENT DE GRANDE TAILLE ET UNE PRÉSENCE QUI MET EN VALEUR VOS ESPACES.
                             </p>
                             <a id="buffet_btn_1" href="#" class="btn__click hvr-ripple-out">
                                   en savoir plus   <br><i class="fa fa-plus" aria-hidden="true"></i><br>sur nos buffets
@@ -207,7 +206,7 @@ header('Location: http://m.villa-visby.com');
                             <p class="livraiz">
                                 <span class="title_livraiz">
                                                   COMMANDEZ<br>
-                                              </span> Faites votre séléctions parmis notre large gamme de produits
+                                              </span> Faites votre sélection parmi notre large gamme de produits
                             </p>
 
                         </div>
@@ -222,7 +221,7 @@ header('Location: http://m.villa-visby.com');
                             <p class="livraiz">
                                 <span class="title_livraiz">
                                                   RECEVEZ<br>
-                                              </span> Votre mobilier livrée directement chez vous.
+                                              </span> Votre mobilier livré directement chez vous.
                             </p>
                         </div>
                         <div class="clearBoth"></div>
@@ -264,7 +263,7 @@ header('Location: http://m.villa-visby.com');
                     <h1 class="design__7">GALERIE PHOTOS</h1></div>
                 <img src="img/galery1.jpg" data-fullsrc="" alt="Cuisine">
                 <img src="img/galery2.jpg" data-fullsrc="img/galery2.jpg" alt="Tabouret">
-                <img src="img/galery3.jpg" data-fullsrc="img/galery3.jpg" alt="Chaîses design">
+                <img src="img/galery3.jpg" data-fullsrc="img/galery3.jpg" alt="Chaises design">
                 <img src="img/galery4.jpg" data-fullsrc="img/galery4.jpg" alt="Bureau">
                 <img src="img/galery5.jpg" data-fullsrc="img/galery5.jpg" alt="Tables extérieur">
                 <img src="img/galery6.jpg" data-fullsrc="img/galery6.jpg" alt="Tables intérieur">
@@ -398,7 +397,7 @@ header('Location: http://m.villa-visby.com');
                     <div class="col-md-12">
                         <h1 class="design__4">NOS CANAPES</h1>
                         <a href="#" style="float:right;position: relative;top: 100px;font-size: 30px;" class="btn__click_cross">X</a>
-                        <p class="rappel">Nous tenons à rappeler à nos visiteurs que les articles présents sur ce site, ne sont qu'une mince séléction parmis tous nos produits. Afin de pouvoir tout voir, nous vous invitions à venir nous rencontrer au plus vite !</p>
+                        <p class="rappel">Nous tenons à rappeler à nos visiteurs que les articles présents sur ce site, ne sont qu'une infime sélection parmi tous nos produits. Afin de pouvoir tout voir, nous vous invitions à venir nous rencontrer au plus vite !</p>
                     </div>
                     <div class="col-md-2">
                         <nav class="nav_filter">
@@ -426,7 +425,7 @@ header('Location: http://m.villa-visby.com');
                                         COLLECTION NOTTA
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Rafiné, élégant, ce canapé très moderne aux finitions soignées, vous offrira un confort irréprochable.</span>
+                                        Description: <span style="text-transform:lowercase">Raffiné, élégant, ce canapé très moderne aux finitions soignées, vous offrira un confort irréprochable.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -494,7 +493,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION PHOENIX
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Les canapés Phoenix est aux lignes sobres contemporaines, qui s'intégrera facilement dans tous les intérieurs.</span>
+                                        Description: <span style="text-transform:lowercase">Le canapé Phoenix est aux lignes sobres contemporaines, qui s'intégrera facilement dans tous les intérieurs.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -695,7 +694,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION COQUILLE-L
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Rafiné, élégant, aux courbes bien proportionnées vous offrira un confort irréprochable..</span>
+                                        Description: <span style="text-transform:lowercase">Raffiné, élégant, aux courbes bien proportionnées, il vous offrira un confort irréprochable..</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -717,7 +716,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION BELFORT
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Dans votres salon pour un thé entre amis ou dans votre chambre à coucher il sera LA note raffinée et élégante de votre intérieur.</span>
+                                        Description: <span style="text-transform:lowercase">Dans votre salon pour un thé entre amis ou dans votre chambre à coucher il sera LA note raffinée et élégante de votre intérieur.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -742,7 +741,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION PANAMA
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Au design contemporain et fonctionnel, vous succombrez à ses lignes épurées et de sa facilité d'entretien.</span>
+                                        Description: <span style="text-transform:lowercase">Au design contemporain et fonctionnel, vous succomberez à ses lignes épurées et à sa facilité d'entretien.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -830,7 +829,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION REPORT
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Report actualise la traditionnelle table pour la cuisine ou le salon à la lumière des nouvelles habitudes quotidiennes.</span>
+                                        Description: <span style="text-transform:lowercase">report actualise la traditionnelle table pour la cuisine ou le salon à la lumière des nouvelles habitudes quotidiennes.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -921,7 +920,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         SALLE À MANGER EN ALUMINIUM
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Rendez vos étés plus ensoléillé grâce aux meubles Villa Visby, vos amis vous envieront pour votre mobilier en aluminiu.</span>
+                                        Description: <span style="text-transform:lowercase">Rendez vos étés plus ensoléillés grâce aux meubles Villa Visby, vos amis vous envieront votre mobilier en aluminium.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -943,7 +942,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         SALLE À MANGER EN ALUMINIUM
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Profitez de votre jardin comme jamais, la qualité de nos meubles saura vous convaincre les intempéris météoroligques </span>
+                                        Description: <span style="text-transform:lowercase">Profitez de votre jardin comme jamais, la qualité de nos meubles saura vous convaincre. </span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1009,7 +1008,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         CHAISES LONGUES
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">N'ayez pas peur de vous endormir sous les couchés de soleil sur nos chaises longues, un désign élégant et un superbe confort.</span>
+                                        Description: <span style="text-transform:lowercase">N'ayez pas peur de vous endormir sous les couchers de soleil sur nos chaises longues, un design élégant et un superbe confort.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1031,7 +1030,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         Salons d'éxtérieur
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Profitez des salons éxtérieurs pour invités tous vos amis dans le confort optimal cet été.</span>
+                                        Description: <span style="text-transform:lowercase">Profitez des salons d'extérieur pour inviter tous vos amis dans le confort optimal cet été.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1078,7 +1077,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         COLLECTION S-CALL
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Bahut, MDF laqué. Trois portes MDF laqué, trois tiroirs. Etagère interne en melamine blanc pour chaque porte stockant vos affaires.</span>
+                                        Description: <span style="text-transform:lowercase">Bahut, MDF laqué. Trois portes MDF laqué, trois tiroirs. Etagère interne en melamine blanc pour chaque porte.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1213,7 +1212,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         VASES & FLEURS
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Colorisez votre salon grâce aux vases et fleurs adapté à vos envies, aux formes les moins ordinaires vous saurez vous sortir du lot.</span>
+                                        Description: <span style="text-transform:lowercase">Colorez votre salon grâce aux vases et fleurs adaptés à vos envies, aux formes les moins ordinaires vous saurez vous sortir du lot.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1232,10 +1231,10 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                             <div class="col-md-6">
                                 <div class="boxy-box">
                                     <p class="title_product__c">
-                                        BOUGIES D'INTÈRIEURS
+                                        BOUGIES D'INTÉRIEURS
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Nos bougies apaisantes et solaires parfumera votre intérieur tout en créant une atmosphère relaxante et réconfortante.</span>
+                                        Description: <span style="text-transform:lowercase">Nos bougies apaisantes et solaires parfumeront votre intérieur tout en créant une atmosphère relaxante et réconfortante.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1257,7 +1256,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         DÉCORATIONS
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Harmonisez votre salon grâce à de simples décorations smart, des objets qui sauront terriblement bien s'intégrer chez vous.</span>
+                                        Description: <span style="text-transform:lowercase">Harmonisez votre salon grâce à de simples décorations smart, des objets qui sauront bien s'intégrer chez vous.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1279,7 +1278,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         LUMINAIRES
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, diffèrents styles sont disponibles sur lesquels nous sauront vous coseiller.</span>
+                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, différents styles sont disponibles sur lesquels nous saurons vous conseiller.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1301,7 +1300,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         NOS TAPIS
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, diffèrents styles sont disponibles sur lesquels nous sauront vous coseiller.</span>
+                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, différents styles sont disponibles sur lesquels nous saurons vous conseiller.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
@@ -1323,7 +1322,7 @@ Recouvert d'un cuir très souple il s'intégrera parfaitement et offre une assis
                                         NOS TAPIS
                                     </p>
                                     <p class="description_product__c">
-                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, diffèrents styles sont disponibles sur lesquels nous sauront vous coseiller.</span>
+                                        Description: <span style="text-transform:lowercase">Éclairez votre intérieur avec goût, différents styles sont disponibles sur lesquels nous saurons vous conseiller.</span>
                                     </p>
                                     <p class="coloris_product__c">
                                         Coloris:
