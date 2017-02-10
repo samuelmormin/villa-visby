@@ -9,7 +9,7 @@ header('Location: http://m.villa-visby.com');
 <head>
     <meta charset="utf-8">
     <title>Villa Visby</title>
-    <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
     <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css">
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
