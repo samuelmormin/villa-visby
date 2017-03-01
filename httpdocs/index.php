@@ -14,7 +14,7 @@ header('Location: http://m.villa-visby.com');
     <meta name="viewport" content="width=device-width, user-scalable=no">
     <meta name="viewport" content="initial-scale=1, maximum-scale=1">
     <link rel="stylesheet" href="Style/app.css">
-    <meta name="google-site-verification" content="X_ESojvQwu2cq5wYPn_tTceiaLWqIE12Bh_5Nt-bFe4" />
+    <meta name="google-site-verification" content="QGPjkU4gX7fAkFGUsu9rZjh9NhyhjJGZxQY3q9S_UMU" />
 </head>
 
 <body>
