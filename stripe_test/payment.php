@@ -15,6 +15,11 @@ if (filter_var($email, FILTER_VALIDATE_EMAIL) && !empty($name) && !empty($token)
         'description' => $name,
         'email' => $email
     ]);
-    var_dump($customer);
-    die();
+    $charge = $stripe->api('charges',[
+        'amount' => 1000,
+        'currecy' => 'eur',
+        'customer' => $customer->id
+    ]);
+    var_dump = ($charges);
+    die('Payment success');
 }
