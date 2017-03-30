@@ -16,7 +16,7 @@
         <div form-row>
            <div class="card-element">
             <div class="row">
-                <input type="text" name="name" required placeholder="Your name" value="Kyle hzn">
+                <input type="text" name="name" required placeholder="Your name" value="Kyle Hazan">
             </div>
 
             <div class="row">
