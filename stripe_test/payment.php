@@ -12,7 +12,7 @@ if (filter_var($email, FILTER_VALIDATE_EMAIL) && !empty($name) && !empty($token)
     $data = [
         'source' => $token,
         'description' => $name,
-        'mail' => $email
+        'email' => $email
     ];
     curl_setopt_array($ch, [
         CURLOPT_URL => 'https://api.stripe.com/v1/customers',
